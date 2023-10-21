@@ -14,4 +14,23 @@ body {
   background-color: burlywood;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.flavor,
+.dessert {
+  text-align: left;
+  width: 60%;
+}
+
+.price {
+  text-align: right;
+  width: 35%;
+}
+
+.item p {
+  display: inline-block;
 }
